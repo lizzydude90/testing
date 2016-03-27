@@ -1,3 +1,7 @@
+/*
+Hi! This is my first switch in C!
+*/
+
 #include <stdio.h>
 #include <cs50.h>
 
